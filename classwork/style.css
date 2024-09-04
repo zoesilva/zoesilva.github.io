@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(255, 160, 218);
+}
+p{
+    font-size: 24pt;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+}
+a{
+    color:aqua;
+    
+}
+a:hover{
+    font-size: larger;
+    color:rgb(255, 47, 151);
+}
